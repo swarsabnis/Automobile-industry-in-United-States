@@ -76,7 +76,7 @@
 
 some visualizations could be plotted for the following :
 <ol>
-	<li> Performance based on different style of car( Coupe/Sedan/Van)
+	<li> Performance based on different styles of car (Coupe/Sedan/Van)
 	<li>Self driving cars and its performance
 	<li> US automobile market compared to other nations</li></ol>
 
