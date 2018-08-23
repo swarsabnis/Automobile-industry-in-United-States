@@ -15,17 +15,12 @@
 </ol>
 
 ### Datasets used:
-<p> Note: Due to huge data size, we havent kept a dataset folder. Datasets can be found here:
-<ul><li><a href="https://www.kaggle.com/jeanmidev/smart-meters-in-london">Dataset from Kaggle</a></li>
-<li><a href="https://data.london.gov.uk/dataset/smartmeter-energy-use-data-in-london-households"> Tariff rates</a></li></ul></p>
-
-
 <ol type="decimal">
-<li>data.csv: Contains information about cars used in United States from 1990 to 2017.It includes information like Engine type, Miles per Gallon, Popularity, MSRP for each Model.</li>
+<li><a href="https://github.com/swarsabnis/Automobile-industry-in-United-States/blob/master/Data/data.csv">data.csv</a>: Contains information about cars used in United States from 1990 to 2017.It includes information like Engine type, Miles per Gallon, Popularity, MSRP for each Model.</li>
 
-<li>pev_sales.csv: Contains information about sales of electric cars in United States from 2011 to 2016 for different brands and models. </li>
+<li><a href="https://github.com/swarsabnis/Automobile-industry-in-United-States/blob/master/Data/pev_sales.csv">pev_sales.csv</a>: Contains information about sales of electric cars in United States from 2011 to 2016 for different brands and models. </li>
 
-<li>fuel_stations.csv: Contains information about charging stations across United States. Includes information about fuel type, longitude, latitude of charging staions.</li>
+<li><a href="https://github.com/swarsabnis/Automobile-industry-in-United-States/blob/master/Data/fuel_stations.csv">fuel_stations.csv</a>: Contains information about charging stations across United States. Includes information about fuel type, longitude, latitude of charging staions.</li>
 </ol>
 
 
