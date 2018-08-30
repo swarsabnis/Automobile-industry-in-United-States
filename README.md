@@ -28,7 +28,7 @@
 ## Table Of Contents:
 
 ####  
-<a href="http://nbviewer.jupyter.org/github/swarsabnis/Automobile-industry-in-United-States/blob/master/Jupyter-Notebook/Automobile_in_United_States.ipynb">Jupyter Notebook:</a> Data cleaning & Exploratory data analysis 
+<a href="https://github.com/swarsabnis/Automobile-industry-in-United-States/blob/master/Jupyter-Notebook/Automobile_in_United_States_visualizations.ipynb">Jupyter Notebook:</a> Data cleaning & Exploratory data analysis 
 
 #### [Inline Visualization](#viz-anchor)
 
