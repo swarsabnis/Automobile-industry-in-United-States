@@ -16,7 +16,7 @@
 
 ### Datasets used:
 <ol type="decimal">
-<li><a href="https://github.com/swarsabnis/Automobile-industry-in-United-States/blob/master/Data/data.csv">data.csv</a>: Contains information about cars used in United States from 1990 to 2017.It includes information like Engine type, Miles per Gallon, Popularity, MSRP for each Model.</li>
+<li><a href="https://github.com/swarsabnis/Automobile-industry-in-United-States/blob/master/Data/data.csv">data.csv</a>: Contains information about cars used in United States from 1990 to 2017.It includes information like Engine type, Miles per Gallon, Popularity, MSRP for each Model. Data was originally obtained from<a href="https://www.kaggle.com/CooperUnion/cardataset"> Kaggle </a></li>
 
 <li><a href="https://github.com/swarsabnis/Automobile-industry-in-United-States/blob/master/Data/pev_sales.csv">pev_sales.csv</a>: Contains information about sales of electric cars in United States from 2011 to 2016 for different brands and models. </li>
 
