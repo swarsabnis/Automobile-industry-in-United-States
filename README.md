@@ -18,9 +18,9 @@
 <ol type="decimal">
 <li><a href="https://github.com/swarsabnis/Automobile-industry-in-United-States/blob/master/Data/data.csv">data.csv</a>: Contains information about cars used in United States from 1990 to 2017.It includes information like Engine type, Miles per Gallon, Popularity, MSRP for each Model. Data was originally obtained from<a href="https://www.kaggle.com/CooperUnion/cardataset"> Kaggle </a></li>
 
-<li><a href="https://github.com/swarsabnis/Automobile-industry-in-United-States/blob/master/Data/pev_sales.csv">pev_sales.csv</a>: Contains information about sales of electric cars in United States from 2011 to 2016 for different brands and models. </li>
+<li><a href="https://github.com/swarsabnis/Automobile-industry-in-United-States/blob/master/Data/pev_sales.csv">pev_sales.csv</a>: Contains information about sales of electric cars in United States from 2011 to 2016 for different brands and models.Data was originally obtained from<a href="https://www.afdc.energy.gov/data/"> afdc.gov </a> </li>
 
-<li><a href="https://github.com/swarsabnis/Automobile-industry-in-United-States/blob/master/Data/fuel_stations.csv">fuel_stations.csv</a>: Contains information about charging stations across United States. Includes information about fuel type, longitude, latitude of charging staions.</li>
+<li><a href="https://github.com/swarsabnis/Automobile-industry-in-United-States/blob/master/Data/fuel_stations.csv">fuel_stations.csv</a>: Contains information about charging stations across United States. Includes information about fuel type, longitude, latitude of charging staions.Data was originally obtained from<a href="https://www.afdc.energy.gov/fuels/electricity_locations.html#/analyze?fuel=ELEC"> Map Data </a></li>
 </ol>
 
 
