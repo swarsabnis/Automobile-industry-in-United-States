@@ -42,12 +42,12 @@
 ![plot3](https://github.com/swarsabnis/Automobile-industry-in-United-States/blob/master/Images/plot3.png)
 <p>This graph was plotted with data points from all the car models since 1990. When compared across different fuel type used in cars, electric cars outbeat rest of the fuel engines. It is followed by diesel and premium type.    </p> 
    
-![map](https://github.com/swarsabnis/Automobile-industry-in-United-States/blob/master/Images/EV%20sales.png)
+![map](https://github.com/swarsabnis/Automobile-industry-in-United-States/blob/master/Images/electric_sales_other.png)
 <p>  Above bar chart shows sales trend for electric cars in United States from 2011 to 2016. As seen, there is a steady growth in overall sales for electric cars with few brands having major share in the sales growth. Tesla, BMW and Nissan are the key players in EV market and tend to grow almost every year. BMW improvement in EV sales has directly impacted its popularity as shown in earlier graph. Nissan has been a steady player, its EV models introduced right from 2011 with a very substantial market share. Tesla's 20 times sales growth from 2011 to 2016 is quite impressive. </p>
 
 
 
-![map](https://github.com/swarsabnis/Automobile-industry-in-United-States/blob/master/Images/map.png)
+![map](https://github.com/swarsabnis/Automobile-industry-in-United-States/blob/master/Images/maps.png)
 	
 <p>Above geo map shows public charging stations for electric cars present across US in 2017. It currently seems that electric cars have imprinted its presence mostly along the east and west coasts of US. But there is still a big chunk of scope in the central states, which seems to be a potential market for electric car industry. </p>
 
